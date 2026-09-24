@@ -27,13 +27,13 @@ Goal for Enemy: Kill/ stop the Player from survivng the set duration by any mean
 Player Name: Pending (TBD)
 
 
-Can collect enhancements provided around the ,ap to aid in survivng for longer durations
+Players can collect enhancements provided around the map to aid in survivng for longer durations
 
 Enchancements:
 Speed Boost - Increases players movement speed by 20% temporarily (5s)
 Durability: If Player is hit they will not be slowed // If hit by an ability will have less of an effect
 Weapon/Stun: Can be used to Stun the Enemy and temporarily stop its movements
-Heal/Health Boost:
+Heal/Health Boost: Can be picked up if a player attempting to survive has been hit. Will give the player a heal over time effect. If player has not been it, it will provide a small health boost/
 
 
 
@@ -54,7 +54,8 @@ Features -
 
 Kind of a Big Dome featuring obstacles, natural scenery and more
 
-Traps -
+Traps - Obstacles the map features that will distract/deter both player and enemy. 
+
 
 # Roadmap - Development Process/ Ideas
 
